@@ -1,0 +1,7 @@
+Railway deployment notes:
+1. Go to https://railway.app and log in with GitHub.
+2. Create a new Project -> Deploy from GitHub.
+3. Select repository: YOUR_USERNAME/YOUR_REPO
+4. Configure environment variables (from backend/.env.example).
+5. Add PostgreSQL plugin if you want a database.
+6. Deploy.
